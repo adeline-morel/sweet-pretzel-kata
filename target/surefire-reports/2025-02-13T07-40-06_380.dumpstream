@@ -1,0 +1,3 @@
+# Created at 2025-02-13T07:40:06.585
+Picked up JAVA_TOOL_OPTIONS: -Dhttp.proxyHost=vip-users.proxy.edf.fr -Dhttp.proxyPort=3131 -Dhttps.proxyHost=vip-users.proxy.edf.fr -Dhttps.proxyPort=3131 -Dhttp.nonProxyHosts=localhost|127.0.0.1|edf.fr|.edf.fr|*.edf.fr
+
